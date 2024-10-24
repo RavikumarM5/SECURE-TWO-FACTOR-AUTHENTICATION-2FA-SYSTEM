@@ -9,6 +9,6 @@ Features
 
 3. Simulated Payment Workflow: Integrated the 2FA system into a simulated payment workflow, offering enhanced security for mobile transactions.
 
-4. User-Friendly Interface: Developed a seamless and intuitive mobile interface using Kivy for easy user interaction.
-
-5. Detailed Documentation: Comprehensive documentation to guide users through the setup and implementation process.
+4. User-Friendly Interface: Developed a seamless and intuitive mobile interface.
+   
+6. Detailed Documentation: Comprehensive documentation to guide users through the setup and implementation process.
